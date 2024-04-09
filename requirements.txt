@@ -1,2 +1,3 @@
+requests==2.31.*
 st-gsheets-connection==0.0.4
 streamlit==1.32.*
